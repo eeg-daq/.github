@@ -8,7 +8,7 @@ analogique (AFE) dédiées.
 
 ## Modules
 - [`eeg-daq-core`](./eeg-daq-core) — carte MCU + alimentation + interfaces (USB-C, SD, GPS, LCD, tactile)
-- [`eeg-daq-afe`](./eeg-daq-afe) — cartes front-end EEG (ADS1299, 16 canaux)
+- [`eeg-daq-afe`](./eeg-daq-afe) — cartes front-end EEG (ADS1299, 2x 8 canaux)
 - [`eeg-daq-ext`](./eeg-daq-ext) — carte d'extension
 
 ## Licence
