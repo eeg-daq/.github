@@ -12,7 +12,7 @@ analogique (AFE) dédiées.
 - [`eeg-daq-ext`](./eeg-daq-ext) — carte d'extension
 
 ## Licence
-Matériel sous CERN-OHL-S-2.0. Voir [LICENSE](./LICENSE).
+Matériel sous CERN-OHL-W-2.0. Voir [LICENSE](./LICENSE).
 
 ## Licence
 Ce matériel est distribué sous licence **CERN-OHL-W-2.0**.
