@@ -15,5 +15,5 @@ analogique (AFE) dédiées.
 Matériel sous CERN-OHL-S-2.0. Voir [LICENSE](./LICENSE).
 
 ## Licence
-Ce matériel est distribué sous licence **CERN-OHL-S-2.0**.
+Ce matériel est distribué sous licence **CERN-OHL-W-2.0**.
 Voir [LICENSE](./LICENSE) pour le texte complet.
